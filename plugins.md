@@ -26,3 +26,7 @@ The most straightforward method to configure logging is via the Jenkins web inte
 ## Backup
 
 - ThinBackup (Jenkins plugin helps to backup and restore)
+
+## JCasC
+
+- Configuration as Code
