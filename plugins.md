@@ -1,5 +1,13 @@
 # Plugins
 
+## Agents
+
+- Docker Pipeline
+
+## Cloud
+
+- Kubernetes
+
 ## Auditing
 
 - Audit Trial (who did what)
